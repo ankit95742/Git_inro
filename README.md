@@ -30,7 +30,7 @@ ii. what are the benefits of using version control systems?
 
 2. Why should you use a git?
 
-Because it's trank all the change that we made throughout the project. We can see that who made which change and Why this change is made. It provides all the history of your project. Allowing to work collaboratively. Software development projects usually require many people to work together. Git provided the developer with a systematic way of doing that. Git is open source and it's the Distribute version control system.
+Because it's track all the change that we made throughout the project. We can see that who made which change and Why this change is made. It provides all the history of your project. Allowing to work collaboratively. Software development projects usually require many people to work together. Git provided the developer with a systematic way of doing that. Git is open source and it's the Distribute version control system.
 
 ---
 
